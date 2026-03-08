@@ -61,6 +61,9 @@ Users can filter the dashboard by region and category to dynamically explore the
 
 ---
 
+## Dashboard Preview
+<div style="text-align: center;"><img src="Sales Dashboard.png" alt="Sales Dashboard"></div>
+
 ## Project Structure
 
 Sales_Data Sheet
